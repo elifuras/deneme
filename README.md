@@ -4,3 +4,4 @@ merhaba
 bu bir read me dosyası
 deniyorum 
 çok güzel
+harikaaa
